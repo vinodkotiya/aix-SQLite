@@ -401,4 +401,5 @@ And a bindParams list like this:
     
 ## Samples
 
-Coming soon...
+Go to Example folder to find the source code for a simple basic working sample to create database with table and search functionality.
+
